@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map Click Listeners</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
